@@ -1,0 +1,81 @@
+body {
+  background-color: #ddd;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px;
+}
+
+ul,
+li {
+  line-height: 20px;
+  list-style-type: disc;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  color: gray;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 20px;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 20px;
+}
+
+h4 {
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 20px;
+}
+
+img {
+  width: 200px ;
+  border-radius: 50%;
+  margin-right: 50px;
+}
+
+.dados-pessoais {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.emphasis{
+  font-weight: bold;
+  color:darkgreen ;
+}
+
+
+
+table {
+  text-align: center;
+}
+
+table,
+tr,
+th,
+td {margin-top: 30px;
+  margin-bottom: 30px;
+  border: 1px solid gray;
+  padding: 5px;
+}
+
+th {
+  font-weight: bold;
+  text-align: center;
+  background-color: gray;
+}
+
+a {
+  color: black;
+  font-size: 1.2;
+  
+}
