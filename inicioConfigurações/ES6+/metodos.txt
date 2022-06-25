@@ -1,0 +1,9 @@
+map => gera um novo array transformando os dados
+filter => gera um novo array filtrando elemento com base em proposição
+forEach => percorre todos os elementos do array, aplicando logica
+reduce => realiza calculo interativo com vase nos elementos
+find => encontra elementos com base em proposições
+some => verifica se ha pelo menos um elemento que atenda a proposição
+every => verifica se todos os elementos atendem a proposição
+sort => ordena os elementos com base em um criterio
+
