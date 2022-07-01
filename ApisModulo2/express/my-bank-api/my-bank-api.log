@@ -64,3 +64,7 @@
 2022-07-01T19:39:01.398Z [my-bank-api] info: Get /account - Consulta de Contas
 2022-07-01T19:45:10.180Z [my-bank-api] info: Api started
 2022-07-01T19:46:29.170Z [my-bank-api] info: Post /account - {"id":12,"name":"Lucas Perer","ballance":40022550}
+2022-07-01T19:46:35.160Z [my-bank-api] info: GET ID /account -  undefined
+2022-07-01T19:46:38.499Z [my-bank-api] info: Get /account - Consulta de Contas
+2022-07-01T19:47:23.036Z [my-bank-api] info: Get /account - Consulta de Contas
+2022-07-01T19:47:25.033Z [my-bank-api] info: Get /account - Consulta de Contas
