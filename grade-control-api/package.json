@@ -1,17 +1,16 @@
 {
-  "name": "my-bank-api",
+  "name": "grade-control-api",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "author": "Lucas",
+  "keywords": [],
+  "author": "Lucas Carmo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1",
-    "swagger-ui-express": "^4.4.0",
-    "winston": "^3.8.1"
-  },
-  "description": ""
+    "express": "^4.18.1"
+  }
 }
